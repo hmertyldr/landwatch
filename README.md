@@ -36,7 +36,7 @@
 
 ![image](https://github.com/user-attachments/assets/38d8d4d4-2da4-479f-9089-2452b76e909a)
 
-log viewing below of the map
+## 📦 Log viewing below of the map
 ![image](https://github.com/user-attachments/assets/136dac73-95c3-40d8-9383-4bfd07757a60)
 
 
