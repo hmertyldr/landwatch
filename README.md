@@ -4,6 +4,9 @@
 
 ---
 
+## User friendly Interface
+![image](https://github.com/user-attachments/assets/267e8364-2d83-4b89-a94d-4c6a08781d30)
+
 ## 🖼️ Preview
 
 ## İRFANLI BARAJI
