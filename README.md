@@ -14,8 +14,10 @@
 
 ![sulak_alan_timelapse_nd](https://github.com/user-attachments/assets/f746319a-96ac-4efd-84e7-b84649cc1bdf)
 
-## Gölbaşı 2017-2024
+## Gölbaşı RGB 2017-2024
 ![Kaliteli_RGB_timelapse](https://github.com/user-attachments/assets/2a1a2897-932c-4a07-bf42-3f7e7f3f7f28)
+
+## Odtü Forest vegetation green analysis (most light green = tree, grass)
 
 ---
 
