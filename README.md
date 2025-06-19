@@ -19,6 +19,7 @@
 
 ## 🌲 Odtü Forest vegetation green analysis (most light green = tree, grass)
 ![nd_yesil_alan_timelapse](https://github.com/user-attachments/assets/3485315f-5e3b-4868-872c-e396b1916967)
+![Kaliteli_RGB_timelapse](https://github.com/user-attachments/assets/a5acb998-6f98-43ea-891d-13e55b45072e)
 
 ---
 
