@@ -1,0 +1,362 @@
+
+
+Sulak alan analizi başladı
+Log dosyası oluşturuldu
+place_18 Yeni dosya oluşturuldu
+roi.json oluşturuldu
+GIF Oluşturuldu ve haritaya eklendi
+Sulak alan analizi tamamlandı
+
+
+
+
+Kaliteli RGB zaman serisi başlatıldı
+2015-2024 arası 10 yıl için başladı.
+Çıktılar place_18 içinde.
+2015: veri yok veya %20 altında bulutlu → atlandı.
+2016: veri yok veya %20 altında bulutlu → atlandı.
+UYARI: 2017: bozuk veya eksik .tif.
+UYARI: 2018: bozuk veya eksik .tif.
+UYARI: 2019: bozuk veya eksik .tif.
+UYARI: 2020: bozuk veya eksik .tif.
+UYARI: 2021: bozuk veya eksik .tif.
+UYARI: 2022: bozuk veya eksik .tif.
+UYARI: 2023: bozuk veya eksik .tif.
+UYARI: 2024: bozuk veya eksik .tif.
+Hiç veri indirilemedi, çıkılıyor.
+Kaliteli RGB zaman serisi başlatıldı
+Log dosyası oluşturuldu
+place_19 Yeni dosya oluşturuldu
+roi.json oluşturuldu
+2015-2024 arası 10 yıl için başladı.
+Çıktılar place_19 içinde.
+2015: veri yok veya %20 altında bulutlu → atlandı.
+2016: veri yok veya %20 altında bulutlu → atlandı.
+UYARI: 2017: bozuk veya eksik .tif.
+UYARI: 2018: bozuk veya eksik .tif.
+UYARI: 2019: bozuk veya eksik .tif.
+UYARI: 2020: bozuk veya eksik .tif.
+UYARI: 2021: bozuk veya eksik .tif.
+UYARI: 2022: bozuk veya eksik .tif.
+UYARI: 2023: bozuk veya eksik .tif.
+UYARI: 2024: bozuk veya eksik .tif.
+Hiç veri indirilemedi, çıkılıyor.
+Kaliteli RGB zaman serisi başlatıldı
+Log dosyası oluşturuldu
+place_20 Yeni dosya oluşturuldu
+roi.json oluşturuldu
+2017-2024 arası 8 yıl için başladı.
+Çıktılar place_20 içinde.
+2017: indirildi → sentinel_2017_c20.tif
+UYARI: 2018: bozuk veya eksik .tif.
+2019: indirildi → sentinel_2019_c20.tif
+2020: indirildi → sentinel_2020_c20.tif
+2021: indirildi → sentinel_2021_c20.tif
+2022: indirildi → sentinel_2022_c20.tif
+2023: indirildi → sentinel_2023_c20.tif
+UYARI: 2024: bozuk veya eksik .tif.
+2017: PNG yapıldı → sentinel_2017_c20.png
+2019: PNG yapıldı → sentinel_2019_c20.png
+2020: PNG yapıldı → sentinel_2020_c20.png
+2021: PNG yapıldı → sentinel_2021_c20.png
+2022: PNG yapıldı → sentinel_2022_c20.png
+2023: PNG yapıldı → sentinel_2023_c20.png
+GIF hazırlanıyor…
+GIF oluşturuldu → Kaliteli_RGB_timelapse.gif
+GIF haritaya eklendi
+TÜM İŞLEM TAMAMLANDI ✔️
+Kaliteli RGB zaman serisi tamamlandı
+
+
+
+
+Şehirleşme analizi başlatıldı
+Log dosyası oluşturuldu
+place_21 Yeni dosya oluşturuldu
+roi.json oluşturuldu
+
+
+Şehirleşme analizi başlatıldı
+Şehirleşme analizi başlatıldı
+Log dosyası oluşturuldu
+place_22 Yeni dosya oluşturuldu
+roi.json oluşturuldu
+2015: NDBI PNG kaydedildi → ndbi_2015.png
+2016: NDBI PNG kaydedildi → ndbi_2016.png
+2017: NDBI PNG kaydedildi → ndbi_2017.png
+2018: NDBI PNG kaydedildi → ndbi_2018.png
+2019: NDBI PNG kaydedildi → ndbi_2019.png
+2020: NDBI PNG kaydedildi → ndbi_2020.png
+2021: NDBI PNG kaydedildi → ndbi_2021.png
+2022: NDBI PNG kaydedildi → ndbi_2022.png
+2023: NDBI PNG kaydedildi → ndbi_2023.png
+2024: NDBI PNG kaydedildi → ndbi_2024.png
+GIF oluşturuldu → nd_yapısal_timelapse.gif
+NDBI yapısal timelapse haritaya eklendi ✔️
+Şehirleşme analizi tamamlandı
+
+
+
+
+Yeşillik analizi başlatıldı
+Log dosyası oluşturuldu
+place_23 Yeni dosya oluşturuldu
+roi.json oluşturuldu
+
+
+Yeşillik analizi başlatıldı
+Log dosyası oluşturuldu
+place_24 Yeni dosya oluşturuldu
+roi.json oluşturuldu
+2017: NDVI PNG kaydedildi → ndvi_2017.png
+2018: NDVI PNG kaydedildi → ndvi_2018.png
+2019: NDVI PNG kaydedildi → ndvi_2019.png
+2020: NDVI PNG kaydedildi → ndvi_2020.png
+2021: NDVI PNG kaydedildi → ndvi_2021.png
+2022: NDVI PNG kaydedildi → ndvi_2022.png
+2023: NDVI PNG kaydedildi → ndvi_2023.png
+2024: NDVI PNG kaydedildi → ndvi_2024.png
+2025: NDVI PNG kaydedildi → ndvi_2025.png
+GIF oluşturuldu → nd_yesil_alan_timelapse.gif
+NDVI yeşillik timelapse haritaya eklendi ✔️
+Yeşillik analizi tamamlandı
+
+
+Kaliteli RGB zaman serisi başlatıldı
+2017-2024 arası 8 yıl için başladı.
+Çıktılar place_24 içinde.
+2017: indirildi → sentinel_2017_c20.tif
+UYARI: 2018: bozuk veya eksik .tif.
+2019: indirildi → sentinel_2019_c20.tif
+2020: indirildi → sentinel_2020_c20.tif
+2021: indirildi → sentinel_2021_c20.tif
+2022: indirildi → sentinel_2022_c20.tif
+2023: indirildi → sentinel_2023_c20.tif
+UYARI: 2024: bozuk veya eksik .tif.
+2017: PNG yapıldı → sentinel_2017_c20.png
+2019: PNG yapıldı → sentinel_2019_c20.png
+2020: PNG yapıldı → sentinel_2020_c20.png
+2021: PNG yapıldı → sentinel_2021_c20.png
+2022: PNG yapıldı → sentinel_2022_c20.png
+2023: PNG yapıldı → sentinel_2023_c20.png
+GIF hazırlanıyor…
+GIF oluşturuldu → Kaliteli_RGB_timelapse.gif
+GIF haritaya eklendi
+TÜM İŞLEM TAMAMLANDI ✔️
+Kaliteli RGB zaman serisi tamamlandı
+
+
+Sulak alan analizi başladı
+Log dosyası oluşturuldu
+place_25 Yeni dosya oluşturuldu
+roi.json oluşturuldu
+GIF Oluşturuldu ve haritaya eklendi
+Sulak alan analizi tamamlandı
+
+
+Sulak alan analizi başladı
+place_26 Yeni dosya oluşturuldu
+roi.json oluşturuldu
+GIF Oluşturuldu ve haritaya eklendi
+Sulak alan analizi tamamlandı
+
+
+Kaliteli RGB zaman serisi başlatıldı
+2017-2024 arası 8 yıl için başladı.
+Çıktılar place_26 içinde.
+2017: indirildi → sentinel_2017_c20.tif
+UYARI: 2018: bozuk veya eksik .tif.
+2019: indirildi → sentinel_2019_c20.tif
+2020: indirildi → sentinel_2020_c20.tif
+2021: indirildi → sentinel_2021_c20.tif
+2022: indirildi → sentinel_2022_c20.tif
+2023: indirildi → sentinel_2023_c20.tif
+UYARI: 2024: bozuk veya eksik .tif.
+2017: PNG yapıldı → sentinel_2017_c20.png
+2019: PNG yapıldı → sentinel_2019_c20.png
+2020: PNG yapıldı → sentinel_2020_c20.png
+2021: PNG yapıldı → sentinel_2021_c20.png
+2022: PNG yapıldı → sentinel_2022_c20.png
+2023: PNG yapıldı → sentinel_2023_c20.png
+GIF hazırlanıyor…
+GIF oluşturuldu → Kaliteli_RGB_timelapse.gif
+GIF haritaya eklendi
+TÜM İŞLEM TAMAMLANDI ✔️
+Kaliteli RGB zaman serisi tamamlandı
+
+
+Şehirleşme analizi başlatıldı
+2017: NDBI PNG kaydedildi → ndbi_2017.png
+2018: NDBI PNG kaydedildi → ndbi_2018.png
+2019: NDBI PNG kaydedildi → ndbi_2019.png
+2020: NDBI PNG kaydedildi → ndbi_2020.png
+2021: NDBI PNG kaydedildi → ndbi_2021.png
+2022: NDBI PNG kaydedildi → ndbi_2022.png
+2023: NDBI PNG kaydedildi → ndbi_2023.png
+2024: NDBI PNG kaydedildi → ndbi_2024.png
+GIF oluşturuldu → nd_yapısal_timelapse.gif
+NDBI yapısal timelapse haritaya eklendi ✔️
+Şehirleşme analizi tamamlandı
+
+
+
+
+Yeşillik analizi başlatıldı
+2017: NDVI PNG kaydedildi → ndvi_2017.png
+2018: NDVI PNG kaydedildi → ndvi_2018.png
+2019: NDVI PNG kaydedildi → ndvi_2019.png
+2020: NDVI PNG kaydedildi → ndvi_2020.png
+2021: NDVI PNG kaydedildi → ndvi_2021.png
+2022: NDVI PNG kaydedildi → ndvi_2022.png
+2023: NDVI PNG kaydedildi → ndvi_2023.png
+2024: NDVI PNG kaydedildi → ndvi_2024.png
+2025: NDVI PNG kaydedildi → ndvi_2025.png
+GIF oluşturuldu → nd_yesil_alan_timelapse.gif
+NDVI yeşillik timelapse haritaya eklendi ✔️
+Yeşillik analizi tamamlandı
+
+
+place_26 içindeki tüm GIF’ler haritaya eklendi.
+Sulak alan analizi başladı
+place_27 Yeni dosya oluşturuldu
+roi.json oluşturuldu
+GIF Oluşturuldu ve haritaya eklendi
+Sulak alan analizi tamamlandı
+
+
+Sulak alan analizi başladı
+place_28 Yeni dosya oluşturuldu
+roi.json oluşturuldu
+GIF Oluşturuldu ve haritaya eklendi
+Sulak alan analizi tamamlandı
+
+
+
+
+Yeşillik analizi başlatıldı
+place_29 Yeni dosya oluşturuldu
+roi.json oluşturuldu
+2017: NDVI PNG kaydedildi → ndvi_2017.png
+2018: NDVI PNG kaydedildi → ndvi_2018.png
+2019: NDVI PNG kaydedildi → ndvi_2019.png
+2020: NDVI PNG kaydedildi → ndvi_2020.png
+2021: NDVI PNG kaydedildi → ndvi_2021.png
+2022: NDVI PNG kaydedildi → ndvi_2022.png
+2023: NDVI PNG kaydedildi → ndvi_2023.png
+2024: NDVI PNG kaydedildi → ndvi_2024.png
+2025: NDVI PNG kaydedildi → ndvi_2025.png
+GIF oluşturuldu → nd_yesil_alan_timelapse.gif
+NDVI yeşillik timelapse haritaya eklendi ✔️
+Yeşillik analizi tamamlandı
+
+
+Kaliteli RGB zaman serisi başlatıldı
+place_30 Yeni dosya oluşturuldu
+roi.json oluşturuldu
+2017-2024 arası 8 yıl için başladı.
+Çıktılar place_30 içinde.
+2017: indirildi → sentinel_2017_c20.tif
+UYARI: 2018: bozuk veya eksik .tif.
+2019: indirildi → sentinel_2019_c20.tif
+2020: indirildi → sentinel_2020_c20.tif
+2021: indirildi → sentinel_2021_c20.tif
+2022: indirildi → sentinel_2022_c20.tif
+2023: indirildi → sentinel_2023_c20.tif
+UYARI: 2024: bozuk veya eksik .tif.
+2017: PNG yapıldı → sentinel_2017_c20.png
+2019: PNG yapıldı → sentinel_2019_c20.png
+2020: PNG yapıldı → sentinel_2020_c20.png
+2021: PNG yapıldı → sentinel_2021_c20.png
+2022: PNG yapıldı → sentinel_2022_c20.png
+2023: PNG yapıldı → sentinel_2023_c20.png
+GIF hazırlanıyor…
+GIF oluşturuldu → Kaliteli_RGB_timelapse.gif
+GIF haritaya eklendi
+TÜM İŞLEM TAMAMLANDI ✔️
+Kaliteli RGB zaman serisi tamamlandı
+
+
+Sulak alan analizi başladı
+place_31 Yeni dosya oluşturuldu
+roi.json oluşturuldu
+GIF Oluşturuldu ve haritaya eklendi
+Sulak alan analizi tamamlandı
+
+
+Kaliteli RGB zaman serisi başlatıldı
+2017-2024 arası 8 yıl için başladı.
+Çıktılar place_31 içinde.
+UYARI: 2017: bozuk veya eksik .tif.
+UYARI: 2018: bozuk veya eksik .tif.
+UYARI: 2019: bozuk veya eksik .tif.
+UYARI: 2020: bozuk veya eksik .tif.
+UYARI: 2021: bozuk veya eksik .tif.
+UYARI: 2022: bozuk veya eksik .tif.
+UYARI: 2023: bozuk veya eksik .tif.
+UYARI: 2024: bozuk veya eksik .tif.
+Hiç veri indirilemedi, çıkılıyor.
+
+
+Yeşillik analizi başlatıldı
+place_32 Yeni dosya oluşturuldu
+roi.json oluşturuldu
+2017: NDVI PNG kaydedildi → ndvi_2017.png
+2018: NDVI PNG kaydedildi → ndvi_2018.png
+2019: NDVI PNG kaydedildi → ndvi_2019.png
+2020: NDVI PNG kaydedildi → ndvi_2020.png
+2021: NDVI PNG kaydedildi → ndvi_2021.png
+2022: NDVI PNG kaydedildi → ndvi_2022.png
+2023: NDVI PNG kaydedildi → ndvi_2023.png
+2024: NDVI PNG kaydedildi → ndvi_2024.png
+2025: NDVI PNG kaydedildi → ndvi_2025.png
+GIF oluşturuldu → nd_yesil_alan_timelapse.gif
+NDVI yeşillik timelapse haritaya eklendi ✔️
+Yeşillik analizi tamamlandı
+
+
+Şehirleşme analizi başlatıldı
+2017: NDBI PNG kaydedildi → ndbi_2017.png
+2018: NDBI PNG kaydedildi → ndbi_2018.png
+2019: NDBI PNG kaydedildi → ndbi_2019.png
+2020: NDBI PNG kaydedildi → ndbi_2020.png
+2021: NDBI PNG kaydedildi → ndbi_2021.png
+2022: NDBI PNG kaydedildi → ndbi_2022.png
+2023: NDBI PNG kaydedildi → ndbi_2023.png
+2024: NDBI PNG kaydedildi → ndbi_2024.png
+GIF oluşturuldu → nd_yapısal_timelapse.gif
+NDBI yapısal timelapse haritaya eklendi ✔️
+Şehirleşme analizi tamamlandı
+
+
+Kaliteli RGB zaman serisi başlatıldı
+2017-2024 arası 8 yıl için başladı.
+Çıktılar place_32 içinde.
+2017: indirildi → sentinel_2017_c20.tif
+UYARI: 2018: bozuk veya eksik .tif.
+2019: indirildi → sentinel_2019_c20.tif
+2020: indirildi → sentinel_2020_c20.tif
+2021: indirildi → sentinel_2021_c20.tif
+2022: indirildi → sentinel_2022_c20.tif
+2023: indirildi → sentinel_2023_c20.tif
+UYARI: 2024: bozuk veya eksik .tif.
+2017: PNG yapıldı → sentinel_2017_c20.png
+2019: PNG yapıldı → sentinel_2019_c20.png
+2020: PNG yapıldı → sentinel_2020_c20.png
+2021: PNG yapıldı → sentinel_2021_c20.png
+2022: PNG yapıldı → sentinel_2022_c20.png
+2023: PNG yapıldı → sentinel_2023_c20.png
+GIF hazırlanıyor…
+GIF oluşturuldu → Kaliteli_RGB_timelapse.gif
+GIF haritaya eklendi
+TÜM İŞLEM TAMAMLANDI ✔️
+Kaliteli RGB zaman serisi tamamlandı
+
+
+place_31 içindeki tüm GIF’ler haritaya eklendi.
+Sulak alan analizi başladı
+place_33 Yeni dosya oluşturuldu
+roi.json oluşturuldu
+GIF Oluşturuldu ve haritaya eklendi
+Sulak alan analizi tamamlandı
+
+
